@@ -7,3 +7,4 @@ you might be wondering that why most people use markdown instead of many other m
 
 - Markdown is simple and easy to learn markup language. It has mininal syntax for formatting text.
 - Markdown is platform independent. you can create markdown formatted text in any device and markdown based files can be opened using virtuaally any application.
+- 
