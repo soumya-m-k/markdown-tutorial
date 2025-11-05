@@ -11,3 +11,5 @@ you might be wondering that why most people use markdown instead of many other m
 - Markdown can be used for everything.it is used to create websites, documents, notes, presentation and technical documentation.
 - Markdown can be easily converted to other formats like HTML, pdf and word document , Making it more versatile for various output streams.
 - Markdown is supported by useful applications such as github, VS code, Notion and Reddit.
+
+## Basic Syntax
