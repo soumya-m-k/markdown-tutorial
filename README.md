@@ -13,3 +13,5 @@ you might be wondering that why most people use markdown instead of many other m
 - Markdown is supported by useful applications such as github, VS code, Notion and Reddit.
 
 ## Basic Syntax
+here are some basics Markdown syntax 
+
