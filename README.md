@@ -17,7 +17,7 @@ here are some basics Markdown syntax
 ### Headings
 To create headings use #(hashtag) symbol. The number # symbols determines heading levels.
 for example : # heading 1, ## heading 2
-<table>
+<html><table>
   <tr>
     <th>Markdown</th>
     <th>Output</th>
@@ -32,3 +32,4 @@ for example : # heading 1, ## heading 2
             border: 1px solid gray;
         }
 </style>
+</html>
