@@ -14,4 +14,6 @@ you might be wondering that why most people use markdown instead of many other m
 
 ## Basic Syntax
 here are some basics Markdown syntax 
-
+### Headings
+To create headings use #(hashtag) symbol. The number # symbols determines heading levels.
+for example : # heading 1, ## heading 2
