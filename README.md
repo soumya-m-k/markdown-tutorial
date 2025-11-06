@@ -19,7 +19,8 @@ To create headings use #(hashtag) symbol. The number # symbols determines headin
 for example : # heading 1, ## heading 2
 <table>
   <tr>
-    <th padding:8px >Markdown</th>
+    
+    <th padding: 8px;>Markdown</th>
     <th>Output</th>
   </tr>
   <tr>
