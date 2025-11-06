@@ -21,9 +21,14 @@ for example : # heading 1, ## heading 2
   <tr>
     <th>Markdown</th>
     <th>Output</th>
-    <th>padding: 3px;</th>
   </tr>
   <tr>
     <td> # heading l</td>
   </tr>
 </table>
+<style>
+  th, td {
+            padding: 5px; /* Space between content and cell border */
+            border: 1px solid gray;
+        }
+</style>
