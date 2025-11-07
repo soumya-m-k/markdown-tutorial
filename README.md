@@ -32,7 +32,7 @@ You can add Markdown formatting elements to a plaintext file using a text editor
 - ### Bold
 To Bold **text** add two asterisks or underscore before and after a word or phrase. To bold middle text add two asterisks before and after a word or phrase without space.
 
-e.g : "Bold one makes __history__"
+e.g : "Bold one makes \*\*history\*\*
 
 Bold one makes **history**
 
