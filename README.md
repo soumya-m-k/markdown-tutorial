@@ -24,6 +24,6 @@ for example : # heading 1, ## heading 2
 - ### paragraph
 To create paragraph use blank line to seperatate line of texts.<br>
 for example:<br>
-Markdown is simple and easy to learn markup language.
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-I really starts using markdown to format most of my documents.
+You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
