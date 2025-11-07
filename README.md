@@ -32,11 +32,13 @@ You can add Markdown formatting elements to a plaintext file using a text editor
 - ### Bold
 To Bold **text** add two asterisks or underscore before and after a word or phrase. To bold middle text add two asterisks before and after a word or phrase without space.
 
-e.g : "Bold one makes \*\*history\*\*
+e.g : Bold one makes \*\*history\*\*
 
 Bold one makes **history**
 
 - ### Italic
-For Italic *text* add one asterisks or underscore before and after a word or phrase. To bold middle text add one asterisks before and after a word or phrase without space.
-e.g : 
+For Italic *text* add one asterisks or underscore before and after a word or phrase. To bold middle text add one asterisks before and after a word or phrase without space.<br>
+e.g : \*Italics\* is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
+
+_Italics_ is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
 
