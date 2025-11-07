@@ -23,4 +23,6 @@ for example : # heading 1, ## heading 2
 
 - ### paragraph
 To create paragraph use blank line to seperatate line of texts.<br>
-for example: Markdown is markup language.  I really like it.
+for example:
+Markdown is markup language.
+I really like it.
