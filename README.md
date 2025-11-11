@@ -51,3 +51,11 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
   > 
   > It is widely used because of its simplicity and readability
 
+   ## Lists
+    you can organize items ot things in only two ways ordered list and unordered list.
+
+  - ## Ordered List
+    To create ordered list
+
+    
+
