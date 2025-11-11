@@ -48,5 +48,6 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
   \> It is widely used because of its simplicity and readability
 
   > Markdown is a lightweight markup language used to format plain text.
+  > 
   > It is widely used because of its simplicity and readability
 
