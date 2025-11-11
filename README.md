@@ -69,7 +69,7 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
      To create unordered list use dashes(-), asterisks(*) or plus signs(+) followed by space at the beginning of each list item.<br>
      e.g :<br>
    \* First Box <br>
-  <br>  \* Second Box <br>
+   \* Second Box <br>
     \* Third Box
 
      - First Box
