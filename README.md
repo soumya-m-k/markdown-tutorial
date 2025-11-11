@@ -56,11 +56,11 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
 
   - ## Ordered List
     To create ordered list use numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.<br>
-    e.g : \1. First Box
-           2. Second Box
+    e.g :  1\. First Box <br>
+           2. Second Box <br>
            3. Third Box
 
-    1. First item
+1. First item
 2. Second item
 3. Third item
     
