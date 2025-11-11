@@ -60,9 +60,9 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
            2. Second Box
            3. Third Box
 
-    1. First Box
-    2. Second Box
-    3. Third Box
+    1.  First Box
+    2.  Second Box
+    3.  Third Box
     
 
     
