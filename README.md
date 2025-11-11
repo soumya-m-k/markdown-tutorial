@@ -64,5 +64,16 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
 1. First Box
 1. Second Box
 3. Third Box
+
+   - ## Unordered List
+     To create unordered list use dashes(-), asterisks(*) or plus signs(+) followed by space at the beginning of each list item.
+     e.g :<br>
+    \* First Box
+     * Second Box
+     * Third Box
+
+     - First Box
+     - Second Box
+     - Third Box
     
 
