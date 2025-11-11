@@ -55,7 +55,15 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
     you can organize items ot things in only two ways ordered list and unordered list.
 
   - ## Ordered List
-    To create ordered list
+    To create ordered list use numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.<br>
+    e.g : \1. First Box
+           2. Second Box
+           3. Third Box
+
+    1. First Box
+    2. Second Box
+    3. Third Box
+    
 
     
 
