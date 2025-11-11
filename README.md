@@ -43,8 +43,10 @@ e.g : \*Italics\* is a style. Used for emphasis, to set apart titles of creative
 _Italics_ is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
 
 - ## Blackquotes
-  To create a  blackquotes, add a > infront of paragraph.
-  e.g : \> Markdown is a lightweight markup language used to format plain text. It is widely used because of its simplicity and readability
+  To create a  blackquotes, add a > infront of paragraph.<br>
+  e.g : \> Markdown is a lightweight markup language used to format plain text.
+  \> It is widely used because of its simplicity and readability
 
-  > Markdown is a lightweight markup language used to format plain text. It is widely used because of its simplicity and readability
+  > Markdown is a lightweight markup language used to format plain text.
+  > It is widely used because of its simplicity and readability
 
