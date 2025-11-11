@@ -14,14 +14,14 @@ you might be wondering that why most people use markdown instead of many other m
 
 ## Basic Syntax
 here are some basics Markdown syntax 
-- ### Headings
+- ## Headings
 To create headings use #(hashtag) symbol. The number # symbols determines heading levels.</br>
 for example : # heading 1, ## heading 2
 # Heading 1
 ## Heading 2
 ### Heading3
 
-- ### paragraph
+- ## paragraph
 To create paragraph use blank line to seperatate line of texts.<br>
 **for example:**
 
@@ -29,18 +29,22 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
 
-- ### Bold
+- ## Bold
 To Bold **text** add two asterisks or underscore before and after a word or phrase. To bold middle text add two asterisks before and after a word or phrase without space.
 
 e.g : Bold one makes \*\*history\*\*
 
 Bold one makes **history**
 
-- ### Italic
+- ## Italic
 For Italic *text* add one asterisks or underscore before and after a word or phrase. To bold middle text add one asterisks before and after a word or phrase without space.<br>
 e.g : \*Italics\* is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
 
 _Italics_ is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
 
-> hi this markdown tutorial
+- ## Blackquotes
+  To create a  blackquotes, add a > infront of paragraph.
+  e.g : \> Markdown is a lightweight markup language used to format plain text. It is widely used because of its simplicity and readability
+
+  > Markdown is a lightweight markup language used to format plain text. It is widely used because of its simplicity and readability
 
