@@ -76,5 +76,13 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
      - Second Box
      - Third Box
 
- * ## Links
+ * ## Links <br>
+ To create link in your document or in web, enclose the link text in brackets(e.g, [chatgpt] ) and then follow immediately with the URL in paranthesis (e.g, (https://www.chatgpt.com) ).
+
+ My Favourite AI chatbot is \[Chatgpt](https://www.chatgpt.com)
+
+ The rendered output look like this <br>
+ My Favourite AI chatbot is [Chatgpt](https://www.chatgpt.com)
+ 
+   
 
