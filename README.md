@@ -18,7 +18,7 @@ here are some basics Markdown syntax
 To create headings use #(hashtag) symbol. The number # symbols determines heading levels.</br>
 for example : # heading 1, ## heading 2 
 
-output will be like this 
+**output will be like this** 
 # Heading 1
 ## Heading 2
 ### Heading3
@@ -36,11 +36,15 @@ To Bold **text** add two asterisks or underscore before and after a word or phra
 
 e.g : Bold one makes \*\*history\*\*
 
+**output will be like this** 
+
 Bold one makes **history**
 
 - ## Italic
 For Italic *text* add one asterisks or underscore before and after a word or phrase. To bold middle text add one asterisks before and after a word or phrase without space.<br>
 e.g : \*Italics\* is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
+
+**output will be like this** 
 
 _Italics_ is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
 
@@ -48,6 +52,8 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
   To create a  blackquotes, add a > infront of paragraph.<br>
   e.g : \> Markdown is a lightweight markup language used to format plain text.
   \> It is widely used because of its simplicity and readability
+
+**output will be like this** 
 
   > Markdown is a lightweight markup language used to format plain text.
   > 
