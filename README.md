@@ -18,7 +18,7 @@ here are some basics Markdown syntax
 To create headings use #(hashtag) symbol. The number # symbols determines heading levels.</br>
 for example : # heading 1, ## heading 2 
 
-**output will be like this** 
+**The renderes output look like this** 
 # Heading 1
 ## Heading 2
 ### Heading3
@@ -36,7 +36,7 @@ To Bold **text** add two asterisks or underscore before and after a word or phra
 
 e.g : Bold one makes \*\*history\*\*
 
-**output will be like this** 
+**The renderes output look like this** 
 
 Bold one makes **history**
 
@@ -44,7 +44,7 @@ Bold one makes **history**
 For Italic *text* add one asterisks or underscore before and after a word or phrase. To bold middle text add one asterisks before and after a word or phrase without space.<br>
 e.g : \*Italics\* is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
 
-**output will be like this** 
+**The renderes output look like this** 
 
 _Italics_ is a style. Used for emphasis, to set apart titles of creative works, or to indicate foreign words.
 
@@ -53,7 +53,7 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
   e.g : \> Markdown is a lightweight markup language used to format plain text.
   \> It is widely used because of its simplicity and readability
 
-**output will be like this** 
+  **The renderes output look like this** 
 
   > Markdown is a lightweight markup language used to format plain text.
   > 
@@ -91,6 +91,13 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
 
  The rendered output look like this <br>
  My Favourite AI chatbot is [Chatgpt](https://www.chatgpt.com)
+
+ - ## Images <br>
+   To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses.
+
+   ![Himalayas](https://t3.ftcdn.net/jpg/01/77/14/32/360_F_177143288_8yenhiFQr1zX6gi8QDK6zeaLztDgxtuw.jpg)
+
+   
  
    
 
