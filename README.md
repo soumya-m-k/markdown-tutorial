@@ -100,10 +100,10 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
    - ## Tables
      To create tables, use three  or more hyphens(---) to create each columns header and use pipes to seperate each column.
 
-     \|  Markdown | HTML |
+  /!....   |  Markdown | HTML |
      |---------------|------|
      | symbols | tags |
-     | documentation | web pages |
+     | documentation | web pages |.../
 
      **The renderes output look like this**
 
