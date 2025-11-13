@@ -97,6 +97,15 @@ _Italics_ is a style. Used for emphasis, to set apart titles of creative works, 
 
    ![Himalayas](https://t3.ftcdn.net/jpg/01/77/14/32/360_F_177143288_8yenhiFQr1zX6gi8QDK6zeaLztDgxtuw.jpg)
 
+   - ## Tables
+     To create tables, use three  or more hyphens(---) to create each columns header and use pipes to seperate each column.
+
+     | Markdown | HTML |
+     |-----------------|-----------------|
+     |symbols | tags |
+     |documentation | web pages |
+     
+
    
  
    
